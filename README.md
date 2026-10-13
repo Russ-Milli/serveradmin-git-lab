@@ -1,1 +1,10 @@
-# serveradmin-git-labUpdated from Azure VM on Tue Oct 13 20:39:53 UTC 2026
+# serveradmin-git-lab
+
+Lab project for CNS 3205 Server Administration: Git and GitHub on an Azure Linux VM.
+
+## Team
+- Russ-Milli
+
+## Setup
+- Ubuntu 24.04 VM on Azure (Spain Central)
+- Git installed, SSH key authentication to GitHub
